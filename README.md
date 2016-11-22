@@ -1,2 +1,2 @@
 # JSReader
-Json schema reader
+Lazy Json reader
