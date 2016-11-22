@@ -1,7 +1,4 @@
-﻿using System;
-using JSReader;
-
-namespace JSReader
+﻿namespace JSReader
 {
     public class JProperty : Json
     {
