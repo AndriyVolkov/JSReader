@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("JSReader")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Odense Kommune")]
+[assembly: AssemblyCompany("Andriy Volkov")]
 [assembly: AssemblyProduct("JSReader")]
-[assembly: AssemblyCopyright("Copyright © Odense Kommune 2016")]
+[assembly: AssemblyCopyright("Copyright © Andriy Volkov 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
