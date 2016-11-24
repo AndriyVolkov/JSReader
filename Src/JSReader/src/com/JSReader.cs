@@ -11,6 +11,5 @@
             catch { }
             return json!=null && json.IsValid;
         }
-
     }
 }
