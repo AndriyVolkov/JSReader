@@ -1,0 +1,2 @@
+# JSReader
+Lazy Json reader
