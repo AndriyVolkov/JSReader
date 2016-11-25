@@ -46,6 +46,7 @@
     <Compile Include="src\obj\JObject.cs" />
     <Compile Include="src\obj\JProperty.cs" />
     <Compile Include="src\obj\Json.cs" />
+    <Compile Include="src\obj\JValue.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
